@@ -10,3 +10,6 @@ There are not many levels (again - only 1), some part of behaviour when ghosts a
 berries as additional bonuses.
 
 Little bugs can appear but it even makes the game more random.
+
+![screenshot](https://github.com/Ksenia-C/Pacman/blob/master/show1.png?raw=true)
+
