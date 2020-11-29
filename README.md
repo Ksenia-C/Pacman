@@ -2,7 +2,7 @@
 Simplified version of Pac-Man. A trying to implemented game in 2019.
 C++ and SFML are used here.
 
-There are Pac-Man control, energizers (after eating which Pacman can destroy Ghosts),
+There are Pac-Man control, energizers (after eating which Pac-Man can destroy Ghosts),
 most of the original behaviour of Ghosts (they move toward the certain point; move random if Pac-Man has eaten energizer),
 house for Ghosts, tunnel, only one level with 3 health points.
 
